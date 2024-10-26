@@ -1,5 +1,8 @@
 <h1> <a href="https://pengyu-team.github.io/S3E">S3E: A Multi-Robot Multimodal Dataset for Collaborative SLAM</a> </h1>
 
+> [!Note]
+> Accepted by IEEE Robotics and Automation Letters (RA-L) !
+
 > [!TIP]
 > This is a project website of S3E dataset. 
 > 
